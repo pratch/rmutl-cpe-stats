@@ -1,4 +1,4 @@
-# ความน่าจะเป็นและสถิติในงานวิศวกรรม (Probability and Statistics for Engineering)
+# ความน่าจะเป็นและสถิติในงานวิศวกรรม (Probability and Statistics in Engineering)
 
 ## Slides
 - Lecture 2 (9/11/2017) Basic Python/Anaconda Package : [PDF](/lecture2%20-%20intro%20to%20anaconda,%20spyder,%20numpy,%20python.pdf)
