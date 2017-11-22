@@ -6,3 +6,6 @@
 
 ## Homework
 - Homework 1 (ส่ง: 23/11/2017) : [txt](/hw1.txt)
+
+## Useful Links
+- Visualizing Conditional Probability : http://setosa.io/conditional/
