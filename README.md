@@ -7,7 +7,7 @@
 - Lab 4 (30/11/2017) Pandas Basic : [PDF](/lecture5%20-%20pandas.pdf) 
 - Lab 5 (07/11/2017) Exploring Spam Data : [PDF](/lecture6%20-%20spam%20data.pdf)
 
-*Lab Materials on Spam Filtering are taken from https://radimrehurek.com/data_science_python/ 
+*Lab Materials on Spam Filtering are taken from* https://radimrehurek.com/data_science_python/ 
 
 ## Homework
 - Homework 1 (ส่ง: 23/11/2017) : [txt](/hw1.txt)
