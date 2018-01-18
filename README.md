@@ -7,6 +7,7 @@
 - Lab 4 (30/11/2017) Pandas Basic : [PDF](/lecture5%20-%20pandas.pdf) 
 - Lab 5 (07/12/2017) Exploring Spam Data : [PDF](/lecture6%20-%20spam%20data.pdf)
 - Lab 6 (11/01/2018) NLP with TextBlob : [PDF](/lecture7%20-%20textblob.pdf)
+- Lab 7 (18/01/2018) Jupyter Notebook and Naive Bayes Intro : [Link to Colab Notebook](https://colab.research.google.com/notebook#fileId=1TDRBXEbtAp8P4zIMq_zEKaPSawz3B6pX)
 
 *Lab Materials on Spam Filtering are taken from* https://radimrehurek.com/data_science_python/ 
 
